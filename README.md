@@ -55,3 +55,75 @@ In our app we provide investors to the farmer by that farmer get free from high 
     </script>
 </body>
 </html>
+
+
+css
+/* Reset some default styles for better consistency */
+body, h1, h2, h3, p, button {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+#options {
+    display: flex;
+    gap: 20px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+}
+
+#buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+button {
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#profileOptions {
+    display: flex;
+    gap: 10px;
+}
