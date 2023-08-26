@@ -4,10 +4,6 @@ In our app we provide investors to the farmer by that farmer get free from high 
 <html>
 <head>
     <title>Kruvrutra Farming Portal</title>
-    <style>
-        /* Your CSS styles here */
-        /* ... */
-    </style>
 </head>
 <body>
     <header>
