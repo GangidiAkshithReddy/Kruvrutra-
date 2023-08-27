@@ -1,3 +1,9 @@
+https://www.figma.com/proto/qqAaFtCT7WIutlD7x9BFss/Untitled?type=design&node-id=1-67&t=v34B7ofpKrHwS86x-1&scaling=scale-down&page-id=0%3A1&mode=design
+
+
+
+
+
 # Kruvrutra-
 In our app we provide investors to the farmer by that farmer get free from high compound interest
 <!DOCTYPE html>
